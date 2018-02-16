@@ -1,1 +1,1 @@
-# Moder-Javascript
+# Modern-Javascript
